@@ -1,6 +1,6 @@
 # 🏗️ Java Engineering
 
-Welcome! This repository serves as a professional portfolio for mid-to-advanced backend projects. While my [Java Learning Hub](https://github.com/YuriiJavaDev/JavaLearning) focuses on core syntax and basic algorithms, this section highlights complex systems, multi-layered architecture, and real-world engineering challenges.
+Welcome! This repository serves as a professional portfolio for mid-to-advanced backend projects. While my [Java Learning](https://github.com/YuriiJavaDev/JavaLearning) focuses on core syntax and basic algorithms, this section highlights complex systems, multi-layered architecture, and real-world engineering challenges.
 
 ## 🏛️ Featured Engineering Projects (With Full History)
 
