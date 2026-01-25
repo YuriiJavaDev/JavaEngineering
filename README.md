@@ -28,6 +28,17 @@ A comprehensive educational management system built with scalability in mind.
     * Managed database versions using **Flyway** migrations.
     * Ensured code reliability with comprehensive **JUnit 5** and **Mockito** testing.
 
+### 🏫 [SchoolManagementSystem V0.1](https://github.com/YuriiJavaDev/SchoolManagementSystem_V0.1)
+
+A console-based School Management System built with **Spring Boot**, focused on modern backend practices and automated database management.
+
+* **Key Focus**: Transitioning from Core Java to the Spring ecosystem, implementing automated database evolution, and adopting containerized testing.
+* **Technical Highlights**:
+    * **Spring Data JPA & Hibernate**: Leveraged for efficient Object-Relational Mapping (ORM) and simplified data persistence layers.
+    * **Flyway Migrations**: Implemented automated database schema versioning to ensure consistent environments across development and testing.
+    * **Testcontainers**: Developed robust integration tests by spinning up real PostgreSQL instances in Docker containers during the build process.
+    * **Architecture**: Followed a service-oriented approach to separate business logic from data access and CLI interaction.
+
 ---
 
 ## 🛠️ Practical Skills & Tools Demonstrated
