@@ -43,9 +43,21 @@ A console-based School Management System built with **Spring Boot**, focused on 
 
 ## 🛠️ Practical Skills & Tools Demonstrated
 
-* **Concurrency & Multithreading**: Managing independent worker threads, avoiding race conditions, and ensuring thread safety in shared environments.
-* **Data Integrity & SQL**: Designing normalized database structures and working with PostgreSQL to ensure ACID compliance.
-* **Mentorship & Professional Growth**: Actively refactoring code based on mentor feedback and industry best practices.
-* **Performance Monitoring**: Using profiling tools like VisualVM to monitor heap memory and thread states.
+* **Frameworks & Core Java**:
+    * **Spring Boot**: Building production-ready applications with dependency injection and auto-configuration.
+    * **Concurrency**: Managing thread lifecycles with `ExecutorService`, ensuring synchronization via `ReentrantReadWriteLock`, and using `CountDownLatch` for thread coordination.
+* **Data Management & Persistence**:
+    * **Spring Data JPA & Hibernate**: Implementing ORM patterns to map Java objects to relational tables efficiently.
+    * **SQL & PostgreSQL**: Designing complex schemas, managing relationships, and ensuring ACID compliance.
+    * **Database Migrations**: Using **Flyway** for version-controlled schema evolution.
+* **Software Architecture**:
+    * **Multi-tier (Layered) Architecture**: Separating concerns into Controller, Service, and DAO/Repository layers.
+    * **Clean Code**: Refactoring based on professional mentorship to ensure maintainability and readability.
+* **Testing & Quality Assurance**:
+    * **Integration Testing**: Using **Testcontainers** to run tests against real Dockerized PostgreSQL instances.
+    * **Unit Testing**: Verifying business logic with **JUnit 5** and mocking dependencies with **Mockito**.
+* **Monitoring & Tooling**:
+    * **Performance Profiling**: Monitoring heap memory, object allocation, and thread states using **VisualVM**.
+    * **Build Tools**: Managing dependencies and project lifecycles with **Maven**.
 
 ---
