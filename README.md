@@ -16,7 +16,7 @@ A high-performance multithreaded simulation of a Stock Exchange.
     * Developed real-time equity calculation and Profit/Loss (P/L) reporting logic.
     * Verified memory structure and object allocation using **VisualVM**.
 
-### 🎓 [University CMS](https://github.com/YuriiJavaDev/university-cms)
+### 🎓 [University CMS](https://github.com/YuriiJavaDev/UniversityCMS)
 A comprehensive educational management system built with scalability in mind.
 * **Key Focus**: Layered Architecture (DAO, Service, Controller) and robust data persistence.
 * **Technical Highlights**: 
