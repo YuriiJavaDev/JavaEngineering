@@ -8,7 +8,7 @@ Welcome! This repository serves as a professional portfolio for mid-to-advanced 
 
 ---
 
-### 💹 [Stock Market System](https://github.com/YuriiJavaDev/stock-market-system)
+### 💹 [StockMarketSystem_V0.1](https://github.com/YuriiJavaDev/stock-market-system)
 A high-performance multithreaded simulation of a Stock Exchange.
 * **Key Focus**: Advanced thread synchronization using `ExecutorService`, `ReentrantReadWriteLock`, and `CountDownLatch`.
 * **Technical Highlights**: 
@@ -16,7 +16,7 @@ A high-performance multithreaded simulation of a Stock Exchange.
     * Developed real-time equity calculation and Profit/Loss (P/L) reporting logic.
     * Verified memory structure and object allocation using **VisualVM**.
 
-### 🎓 [University CMS](https://github.com/YuriiJavaDev/UniversityCMS)
+### 🎓 [UniversityCMS_V0.1](https://github.com/YuriiJavaDev/UniversityCMS)
 A comprehensive educational management system built with scalability in mind.
 * **Key Focus**: Layered Architecture (DAO, Service, Controller) and robust data persistence.
 * **Technical Highlights**: 
