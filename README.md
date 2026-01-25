@@ -17,6 +17,9 @@ A high-performance multithreaded simulation of a Stock Exchange.
     * Verified memory structure and object allocation using **VisualVM**.
 
 ### 🎓 [UniversityCMS_V0.1](https://github.com/YuriiJavaDev/UniversityCMS)
+
+University Schedule Content Management System (CMS) — a backend system for educational process management, implemented in Java using PostgreSQL and multi-layered architecture.
+
 A comprehensive educational management system built with scalability in mind.
 * **Key Focus**: Layered Architecture (DAO, Service, Controller) and robust data persistence.
 * **Technical Highlights**: 
