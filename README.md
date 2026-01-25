@@ -15,6 +15,7 @@ A high-performance multithreaded simulation of a Stock Exchange.
     * Implemented thread-safe `ConcurrentHashMap` for independent broker portfolios.
     * Developed real-time equity calculation and Profit/Loss (P/L) reporting logic.
     * Verified memory structure and object allocation using **VisualVM**.
+    * The system is equipped with a "circuit breaker" mechanism that automatically suspends all trading operations if the market index falls below a critical threshold or if the trading session time has expired.
 
 ### 🎓 [UniversityCMS_V0.1](https://github.com/YuriiJavaDev/UniversityCMS)
 
