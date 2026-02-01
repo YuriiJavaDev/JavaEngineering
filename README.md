@@ -36,7 +36,7 @@ A console-based School Management System built with **Spring Boot**, focused on 
 * **Technical Highlights**:
     * **Spring Data JPA & Hibernate**: Leveraged for efficient Object-Relational Mapping (ORM) and simplified data persistence layers.
     * **Flyway Migrations**: Implemented automated database schema versioning to ensure consistent environments across development and testing.
-    * **Testcontainers**: Developed robust integration tests by spinning up real PostgreSQL instances in Docker containers during the build process.
+    * **Testcontainers**: Developed robust integration tests by spinning up real PostgreSQL instances in containers during the build process.
     * **Architecture**: Followed a service-oriented approach to separate business logic from data access and CLI interaction.
 
 ---
